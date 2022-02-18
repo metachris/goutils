@@ -1,2 +1,2 @@
-# goutils
-Various small Go utilities to reuse
+## Use https://github.com/flashbots/go-utils/
+
